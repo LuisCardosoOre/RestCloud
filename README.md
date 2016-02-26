@@ -1,5 +1,5 @@
 # RestCloud
-Restful de Cloud Message para android
+Restful de Cloud Message para android (SERVIDOR JAVA)
 
 Este proyecto fue desarrollado para entender como funciona el cloud message de google.
 
